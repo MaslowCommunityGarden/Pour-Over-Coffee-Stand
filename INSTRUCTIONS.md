@@ -1,7 +1,12 @@
-Edit this file to add assembly instructions
+### About the Files
+This the original was created used 3/4in (23/32nd) CDX plywood with a 1/4 inch bit 2 flute up spiral bit. 
 
-You can find instructions on how to edit this page on the community garden meta page instructions tab [here](http://maslowcommunitygarden.org/Website.html)
+#### coffeestand.svg 
+SVG file of the parts that can go straight to MakerCAM (or your CAM of choice) for tool path generation.
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+#### coffeestand.nc
+GCode .nc file that can go straight to the Maslo if you are cutting this out of 3/4 inch plywood or similiar with a 1/4 inch bit. Notable feeds and speeds:
++ Feeds for pockets and profiles: 20 inches/minute
++ Step down: 0.15 inches
++ Target Depth: 0.80 inches
++ Safety Height: 0.125 inches
