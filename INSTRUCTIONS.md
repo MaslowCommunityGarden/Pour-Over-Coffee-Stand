@@ -7,7 +7,7 @@ This the original was created used 3/4in (23/32nd) CDX plywood with a 1/4 inch b
 #### CoffeeStand.dxf
 DXF export from Onshape of parts in CAD. 
 
-#### coffeestand.svg 
+#### CoffeeStand.svg 
 SVG file of the parts that can go straight to MakerCAM (or your CAM of choice) for tool path generation.
 
 #### coffeestand.nc
