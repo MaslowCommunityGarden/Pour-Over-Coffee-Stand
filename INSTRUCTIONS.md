@@ -1,6 +1,9 @@
 ### About the Files
 This the original was created used 3/4in (23/32nd) CDX plywood with a 1/4 inch bit 2 flute up spiral bit. 
 
+#### OnShape CAD file here: 
+[Link](https://cad.onshape.com/documents/45b99d81adf2f4f4a0116629/w/7b11265cbf7aea72c97b7bb6/e/f8c35116739350e7f2f90eee)
+
 #### coffeestand.svg 
 SVG file of the parts that can go straight to MakerCAM (or your CAM of choice) for tool path generation.
 
